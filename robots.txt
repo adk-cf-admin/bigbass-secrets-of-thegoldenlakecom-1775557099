@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://bigbass-secrets-of-thegoldenlake.com/
+Sitemap: https://bigbass-secrets-of-thegoldenlake.com/sitemap.xml

@@ -1,0 +1,196 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0D4D52",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D4D52",
+            "welcome-bonus-bg": "#0D4D52",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#082d30",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#BE8E3E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#EA4931",
+            "yellow": "#BE8E3E",
+            "yellow-button": "#EA4931",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#BE8E3E",
+            "casino-cards": "#0D4D52",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#BE8E3E",
+            "providers-back": "#0D4D52",
+            "faq-label": "#0D4D52",
+            "bg-footer": "#0D4D52",
+            "copyright": "#e7e7d5",
+            "starColor": "#BE8E3E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5802"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5803",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Big Bass Secrets of the Golden Lake Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5804",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Big Bass Secrets of the Golden Lake"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Big Bass Secrets of the Golden Lake",
+                    "title": "Big Bass Secrets of the Golden Lake: 96.07% RTP, Up to 5,000x and 2 Bonus Modes",
+                    "description": "Big Bass Secrets of the Golden Lake is a 5x3 Pragmatic Play slot with 10 paylines, up to 20 starting free spins, multipliers up to x10, Golden Lake Free Spins, and a maximum win potential of up to 5,000x the bet.",
+                    "canonical": "bigbass-secrets-of-thegoldenlake.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5805",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "bigbass-secrets-of-thegoldenlake.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5806"
+                },
+                "hero": {
+                    "title": "Big Bass Secrets of the Golden Lake — Up to 5,000x, 20 Free Spins and Golden Lake Bonus",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5807",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5808",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Two bonus modes with distinct pacing.",
+                        "Up to 5,000x win potential overall.",
+                        "Familiar Big Bass collector-style bonus rhythm.",
+                        "Golden Lake adds extra reel interventions.",
+                        "High volatility suits bigger swing hunters.",
+                        "Up to 20 free spins triggered.",
+                        "Multipliers grow steadily as collectors accumulate."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Big Bass Secrets of the Golden Lake App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5809",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Big Bass Secrets of the Golden Lake App",
+                    "mobileGooglePlayImageTitle": "Big Bass Secrets of the Golden Lake App",
+                    "mobileIosImageTitle": "Big Bass Secrets of the Golden Lake App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Big Bass Secrets of the Golden Lake",
+                        "description1": "Big Bass Secrets of the Golden Lake is a vivid Pragmatic Play slot that expands the familiar Big Bass fishing formula with a mysterious golden-lake setting.",
+                        "items": [],
+                        "description2": "The game uses a 5x3 layout with 10 fixed paylines and leans into high volatility, so the biggest expectations usually revolve around the bonus rounds. Its defining feature is the presence of two free spins paths: the regular Free Spins mode and the separate Golden Lake Free Spins mode.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5810",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " In both features, the Fisherman symbol acts as the core collector by gathering money values from fish symbols and helping the bonus grow stronger over time. The progress meter makes every fourth collected Fisherman especially important because it can award extra spins and a stronger multiplier. This slot is a strong match for players who enjoy the Big Bass style of play, collector mechanics, and the chase for larger bonus-driven wins."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Big Bass Secrets of the Golden Lake — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Key Slot Characteristics\n<\/h3>\n<p>\nBig Bass Secrets of the Golden Lake combines the familiar Big Bass formula with a more adventurous presentation built around a mysterious golden lake. The game follows a high-volatility model, which means the base game sets the pace while the strongest potential is concentrated inside the bonus rounds. It is easy to follow on both desktop and mobile screens, and it feels especially rewarding for players who enjoy progression-based features. The overall structure is simple to learn, yet the bonus potential gives the slot real depth.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTechnical Profile\n<\/h4>\n\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Layout: 5 reels, 3 rows<\/li>\n            <li>• Paylines: 10 fixed paylines<\/li>\n            <li>• Volatility: High<\/li>\n            <li>• RTP: 96.07% in the default configuration<\/li>\n            <li>• Max win: up to 5,000x the bet<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCore Features\n<\/h4>\n\n<ul>\n            <li>• Two free spins modes: standard Free Spins and Golden Lake Free Spins<\/li>\n            <li>• Fisherman collector mechanic with progressive bonus levels<\/li>\n            <li>• Multipliers that grow as more collectors are gathered<\/li>\n            <li>• Up to 20 free spins on the initial trigger<\/li>\n            <li>• Optional Ante Bet and Bonus Buy where permitted<\/li>\n            <li>• Fully optimized for desktop, tablet, and mobile play<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Where You Can Play\n<\/h3>\n<p>\nBig Bass Secrets of the Golden Lake is typically available on licensed online gaming platforms that feature slot titles from major software providers. In most cases, the game can be launched both in a standard browser version and in a mobile-friendly format without complicated installation. Players usually find it either through the main slots section or by searching for the title directly. Many platforms also provide a demo version, which makes it easier to explore the mechanics before switching to real play. The best overall experience usually comes from platforms with stable performance, clear navigation, and transparent game information.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Demo Mode\n<\/h3>\n<p>\nThe demo mode in Big Bass Secrets of the Golden Lake is a practical way to learn the slot without using real money. It allows players to see how the free spins are triggered, how the Fisherman meter progresses, and how Golden Lake Free Spins differ from the standard bonus mode. This is especially useful before moving to real stakes because the slot is high volatility and rewards a clear understanding of its bonus structure. Demo play also helps players settle into the rhythm of a game built around less frequent but potentially stronger bonus outcomes.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Payout Table\n<\/h3>\n<p>\nThis payout table gives a clear overview of the most important symbols in Big Bass Secrets of the Golden Lake. It helps players quickly identify which symbols carry stronger line-win potential and which icons matter most once the bonus action begins.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #BE8E3E;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payouts<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Notes<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Float<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 0.5x; 4 = 5x; 5 = 200x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Highest-paying regular symbol<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Dragonfly<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 3x; 4 = 15x; 5 = 100x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Strong premium payout symbol<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fishing Rod<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 2x; 4 = 10x; 5 = 50x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Mid-tier premium symbol<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Tackle Box<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 2x; 4 = 10x; 5 = 50x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Matches the rod in value<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fish<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 1x; 4 = 5x; 5 = 20x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Basic themed pay symbol<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>A \/ K<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 0.2x; 4 = 2.5x; 5 = 10x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Higher card-value symbols<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Q \/ J \/ 10<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 = 0.2x; 4 = 1x; 5 = 5x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Lower card-value symbols<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fisherman Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Substitutes for regular symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Collects money fish during bonus play<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Money Fish<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">From 2x up to 5,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Most important symbol in bonus rounds<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — How to Win Based on Real Play Experience\n<\/h3>\n<p>\nThere is no guaranteed way to win in Big Bass Secrets of the Golden Lake because the slot is driven by random outcomes, but real play experience points to one clear pattern: most of the real potential comes from the bonus features rather than from the base game alone. One of the biggest mistakes is expecting line wins to consistently carry a long session, because in practice this slot tends to reveal its strength through Free Spins or Golden Lake Free Spins. Players who manage the game better usually accept the high volatility from the start, choose a comfortable stake, and avoid forcing results by suddenly raising their bet size. A strong practical approach is to understand the Fisherman meter in detail, because every fourth collector can add more free spins and push the bonus multiplier to a better level. Golden Lake Free Spins also tend to feel more explosive thanks to special reel interventions that can create stronger collection moments. The best long-term experience usually comes from disciplined play, realistic expectations, and treating the bonus round as the slot’s true engine.\n<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Big Bass Secrets of the Golden Lake — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Bonuses and Special Features\n<\/h3>\n<p>\nBig Bass Secrets of the Golden Lake is built around its bonus content, and that is exactly what gives the slot its strongest identity. The base game mainly acts as a route into larger feature moments, while the real momentum begins once the scatter trigger leads into one of the two free spins paths. A major strength of the game is that it does not rely on only one standard feature, because players can access either regular Free Spins or the more eventful Golden Lake Free Spins mode. In both cases, the Fisherman Wild is essential because it collects money-fish values and pushes the bonus meter toward stronger multiplier stages. The optional Ante Bet and Bonus Buy functions also make the game feel more aggressive where those options are allowed. Overall, this slot is especially attractive to players who value layered bonus mechanics over simple line-win action.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStandard Free Spins\n<\/h4>\n\n<ul>\n            <li>• 3 scatters usually award 10 free spins, 4 scatters award 15, and 5 scatters award 20. This is the classic bonus mode where Money Fish and Fisherman Wild symbols work together to create the main collection wins.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGolden Lake Free Spins\n<\/h4>\n\n<ul>\n            <li>• This is the rarer and more exciting bonus path, unlocked through the card-pick stage after the scatter trigger. It starts with 10 free spins and uses a special reel set built around blanks, Money Fish, and Fisherman Wilds.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFisherman Meter and Multiplier Growth\n<\/h4>\n\n<ul>\n            <li>• Every 4th collected Fisherman Wild moves the bonus to the next level. A typical progression is x1 at the start, then +10 spins and x2 after 4 collectors, +10 spins and x3 after 8 collectors, and +10 spins with x10 after 12 collectors.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMoney Fish Values\n<\/h4>\n\n<ul>\n            <li>• Money Fish symbols can carry values from 2x up to 5,000x the bet. Their real strength appears when they are collected by a Fisherman Wild during the bonus rounds, especially when several high-value fish land together.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGolden Lake Random Enhancements\n<\/h4>\n\n<ul>\n            <li>• Golden Lake Free Spins can improve weak setups with extra reel events. For example, the game may add Money Fish when a Fisherman lands alone, pull in a Fisherman when only fish are visible, or transform blank spaces into useful symbols.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAnte Bet\n<\/h4>\n\n<ul>\n            <li>• Ante Bet usually increases the total stake by 50% in exchange for a better chance of reaching the scatter trigger. For example, a 1.00 bet becomes 1.50 when Ante Bet is enabled.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus Buy\n<\/h4>\n\n<ul>\n            <li>• Where available, Bonus Buy lets players enter the feature directly. Standard Free Spins may cost around 100x the bet, while direct Golden Lake Free Spins may be priced around 270x the bet.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Free Spins and Multipliers Table\n<\/h3>\n<p>\nThis table shows how the free spins structure and multiplier progression work in Big Bass Secrets of the Golden Lake. It is especially useful for understanding how the bonus becomes stronger as more Fisherman Wild symbols are collected.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #BE8E3E;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Trigger \/ Level<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Free Spins<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Multiplier<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x1<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>4 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x1<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>5 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x1<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Golden Lake Start<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x1<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>4 Fisherman Wilds Collected<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">+10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x2<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>8 Fisherman Wilds Collected<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">+10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x3<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>12 Fisherman Wilds Collected<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">+10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x10<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — How to Play\n<\/h3>\n<p>\nBig Bass Secrets of the Golden Lake is easy to enter even for a newer player because the base structure is clear from the first few spins. The first step is choosing a comfortable bet size and then watching for scatter symbols that open the door to the slot’s bonus modes. The main goal is not only to collect regular line wins, but to reach the free spins and get the most out of the Fisherman collector mechanic.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep-by-Step Play Guide\n<\/h4>\n\n<ul>\n            <li>• Choose a bet size that fits your bankroll and your preferred pace, especially because this is a high-volatility slot.<\/li>\n            <li>• Start the base game and follow the 10 fixed paylines for standard symbol combinations and regular wins.<\/li>\n            <li>• Watch for 3, 4, or 5 scatters, as these trigger the bonus entry and increase the starting free spins in the standard mode.<\/li>\n            <li>• Complete the card-pick stage, which can lead either to regular Free Spins or to Golden Lake Free Spins.<\/li>\n            <li>• Focus on the Fisherman Wild during the bonus because it collects the Money Fish values and unlocks the real payout potential.<\/li>\n            <li>• Track the progression meter carefully, since every 4th collected Fisherman adds more free spins and improves the multiplier level.<\/li>\n            <li>• Use Ante Bet or Bonus Buy only with a clear plan, because both options increase the cost of chasing the feature.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Playing Tips\n<\/h3>\n<p>\nBig Bass Secrets of the Golden Lake works best when treated as a slot built around less frequent but stronger moments rather than constant small returns. That is why a smart approach matters more than emotion, and disciplined play often shapes the session more than short-term randomness. The better a player understands where the real potential sits, the smoother and more enjoyable the overall experience becomes.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHelpful Tips\n<\/h4>\n\n<ul>\n            <li>• Play with the bonus round in mind, because the slot’s strongest value usually comes from free spins and collected Money Fish.<\/li>\n            <li>• Choose a moderate bet size, since high volatility can create long stretches before the next meaningful feature appears.<\/li>\n            <li>• Learn the slot in demo mode first so you can recognize how standard Free Spins and Golden Lake Free Spins behave.<\/li>\n            <li>• Do not overuse Ante Bet, because it may improve bonus access but it also increases the rate at which your balance is spent.<\/li>\n            <li>• Keep your betting rhythm stable instead of reacting emotionally to short dry spells or sudden wins.<\/li>\n            <li>• Respect Golden Lake Free Spins as a high-value opportunity, but avoid treating it as a guaranteed outcome every session.<\/li>\n<\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Secrets of the Golden Lake — Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nIn Big Bass Secrets of the Golden Lake, the bankroll usually disappears not because of one bad spin, but because of a chain of poor decisions over time. This slot can go through longer quieter stretches before a strong bonus appears, which makes emotional play especially risky. The faster a player starts fighting the volatility, the more likely it becomes that the balance runs out before the next real opportunity arrives.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCommon Bankroll Mistakes\n<\/h4>\n\n<ul>\n            <li>• Starting with a bet size that is too high, which reduces session length and makes it harder to survive until a meaningful bonus round appears.<\/li>\n            <li>• Chasing losses by suddenly increasing the stake after a bad run, a move that usually speeds up the bankroll decline instead of fixing it.<\/li>\n            <li>• Leaving Ante Bet on all the time, even though it raises the effective spin cost by 50% and can burn through the balance much faster.<\/li>\n            <li>• Buying bonuses too often without a strict limit, especially the more expensive Golden Lake feature where several weak outcomes can hit in a row.<\/li>\n            <li>• Misunderstanding the role of the Fisherman Wild, because Money Fish values only become truly powerful when they are actually collected.<\/li>\n            <li>• Playing without a time limit or bankroll cap, which often leads to chaotic decisions and weaker control in a high-volatility slot.<\/li>\n<\/ul><br>\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What makes this slot different from regular Big Bass games?",
+                            "answer": "Its biggest difference is the two-path bonus structure, including Golden Lake Free Spins, plus a more mystical treasure-focused atmosphere."
+                        },
+                        {
+                            "title": "What matters more: regular payouts or the bonus mode?",
+                            "answer": "In practice, the bonus mode matters more because that is where the Money Fish collection mechanic and multiplier growth become most important."
+                        },
+                        {
+                            "title": "What happens if Money Fish land in the bonus without a Fisherman Wild?",
+                            "answer": "That kind of spin usually falls short of its full value because the main collector is missing. In Golden Lake Free Spins, special rescue-style reel effects may still improve the setup."
+                        },
+                        {
+                            "title": "Does the slot use fixed paylines or changing ways to win?",
+                            "answer": "It uses fixed paylines, so the overall structure remains steady from one spin to the next."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

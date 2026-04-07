@@ -1,0 +1,19 @@
+{
+  "name": "Big Bass Secrets of the Golden Lake",
+  "short_name": "Big Bass Secrets of the Golden Lake",
+  "theme_color": "",
+  "background_color": "#0D4D52",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775556540-40630-0.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
